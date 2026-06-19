@@ -60,7 +60,7 @@ def train_model(learning_rate=0.01, iteration=100):
 def main():
     print("--- Training Linear Regression Model ---")
 
-    w_gd, b_gd = train_model(0.1, 500)
+    w_gd, b_gd = train_model(0.1, 100)
 
     print("\n--- Training Complete ---")
 

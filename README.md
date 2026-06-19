@@ -1,6 +1,6 @@
 # COMMAND-LINE LINEAR REGRESSION MODEL
 
-#### Video Demo: <INSERT_YOUTUBE_URL_HERE>
+#### Video Demo: https://youtu.be/5EDtT5WRsmw
 
 #### Description:
 
